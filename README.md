@@ -8,11 +8,9 @@ Summary: Trained random forest and support vector classifiers on the Hepatitis .
 - Performed z-normalization of quantitative variables and converted categorical variables to binary dummy variables in preparation for classification. 
 - Binned categorical variables such as albumin.
 
-2. Machine Learning Models
-
+2. Training machine learning Models
 - Out of 155 total observations, trained the two classifiers on 100 observations and tested the classifier performance on the remaining 55 observations. 
 
 
 3. Evaluating machine learning model performance
-
 - Measured classifier performance by constructing ROC curves and analyzing performance metrics (error rate, F1 score, and AUC score) derived from a confusion matrix.
